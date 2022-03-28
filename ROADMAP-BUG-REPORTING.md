@@ -1,6 +1,6 @@
-# Security Policy
+# Bug fixes and roadmap
 
-## Supported Versions
+## Roadmap and known bug fix progress
 
 Lockout is indev, bug fix progress and a roadmap witll be here
 
