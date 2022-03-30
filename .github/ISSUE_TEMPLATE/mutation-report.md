@@ -8,6 +8,7 @@ assignees: kommlock
 ---
 
 **COGNITIVE ERROR REPORT**
+
 Report error here, be as consice and detailed as possible
 
 **REPRODUCE PRISONER ERROR**
