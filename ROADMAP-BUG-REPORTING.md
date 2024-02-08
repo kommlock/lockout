@@ -2,7 +2,7 @@
 
 ## Roadmap and known bug fix progress
 
-Lockout is indev, bug fix progress and a roadmap witll be here
+Roadmap Has been moved to "Projects" tab
 
 ## Reporting a Bug
 
